@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // 初始化
+        //主分支
         ?>
     </body>
 </html>
