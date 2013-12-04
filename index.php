@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
         // 初始化
+        //newbranch
         ?>
     </body>
 </html>
